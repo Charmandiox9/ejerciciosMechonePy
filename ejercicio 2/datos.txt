@@ -1,0 +1,24 @@
+Juan,30,170,70,afiliado
+María,25,160,55,no afiliado
+Pedro,35,175,80,afiliado
+Jorge,53,178,80,no afiliado
+Jose,24,185,75,afiliado
+David,53,156,62,no afiliado
+Tiago,84,190,76,afiliado
+Fanny,23,174,72,afiliado
+Daniela,21,168,75,afiliado
+Claudia,23,174,44,no afiliado
+Diego,34,179,87,no afiliado
+Isidora,22,160,58,afiliado
+Catalina,35,163,60,afiliado
+Francisco,21,168,60,no afiliado
+Vicente,64,170,74,no afiliado
+Joaquin,45,183,90,afiliado
+Guillermo,64,175,60,no afiliado
+Franchesco,100,153,65,afiliado
+Federico,32,166,63,afiliado
+Jorge,31,162,70,no afiliado
+Pablo,22,169,59,afiliado
+Denzel,53,172,70,no afiliado
+Valentina,37,157,55,no afiliado
+Clerians,25,161,58,afiliado
